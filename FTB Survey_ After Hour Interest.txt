@@ -1,0 +1,24 @@
+﻿interest, day_of_week, time, program,transportation, program_frequency 
+yes, Monday, 3-5pm, physical, yes, 1x a month
+yes, Monday, 3-5pm, physical, yes, 1x a month
+Yes, Tuesday,  3-5pm, physical, yes,1x a month
+Yes, Tuesday,  3-5pm, physical, yes, 1x a month
+Yes, Tuesday,  3-5pm, physical, yes, 1x a month
+Yes, Tuesday,  3-5pm, mental, yes, 2x a month,
+Yes, Wednesday,  3-5pm, mental, yes,  2x a month
+Yes, Thursday,  3-5pm, mental, yes,  2x a month
+Yes, Friday,  3-5pm, mental, yes,  2x a month,
+Yes, Friday,  3-5pm, mental, yes,  2x a month,
+Yes, Saturday, 5-7pm, mental, yes,  2x a month,
+Yes, Saturday, 5-7 pm, mental, yes,  2x a month,
+Yes, Saturday, 5-6:30pm, mental, yes,  2x a month,
+Yes, Saturday, 5-6:30pm, mental, yes,  2x a month,
+No, Saturday, 7-8pm, mental, yes,  2x a month,
+No, Saturday, n/a, mental, yes, 4x a month 
+No, Saturday,n/a, n/a,  4x a month 
+No, Sunday, n/a, n/a,  4x a month 
+No, Sunday,n/a, n/a, 4x a month 
+No, n/a, n/a, n/a, n/a
+No, n/a, n/a, n/a, n/a
+Unsure, n/a, n/a, n/a, n/a
+Unsure, n/a, n/a, n/a, n/a
